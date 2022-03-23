@@ -1,0 +1,18 @@
+#header{
+    display: flex;
+    align-items: center;
+    width:92%;
+    height: 40px;
+    border: 1px solid red;
+    margin: auto;
+    color: white;
+    background-color: black;
+    justify-content: space-between;
+}
+#search{
+    width:250px;
+    margin-right: 5px;
+}
+a{
+    color: white;
+}
