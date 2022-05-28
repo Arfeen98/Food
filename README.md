@@ -10,7 +10,7 @@ In unit-3 we were given a assignment to make a food wesite with the api and add 
 * CSS
 
 # How To Run
-Open the index page and in your machine and open with the live server.
+How to run the Project • Open pages directory. • Open index.html using live server.
 
-#Limitation :
+# Limitation :
 As it was a assignment i have completed in 2 hrs so it's only for large screen.
